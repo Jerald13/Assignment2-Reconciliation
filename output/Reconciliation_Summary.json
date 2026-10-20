@@ -1,0 +1,44 @@
+{
+  "ListA": {
+    "Name": "List A",
+    "File": "C:\\Users\\User\\Desktop\\2p2c\\Assignment2-Reconciliation\\data\\ListA.csv",
+    "RowsRead": 24,
+    "ValidRows": 24,
+    "RejectedRows": 0,
+    "DuplicateReferences": 0,
+    "TotalAmount": 95831.50,
+    "TotalNet": 95512.30
+  },
+  "ListB": {
+    "Name": "List B",
+    "File": "C:\\Users\\User\\Desktop\\2p2c\\Assignment2-Reconciliation\\data\\ListB.csv",
+    "RowsRead": 24,
+    "ValidRows": 24,
+    "RejectedRows": 0,
+    "DuplicateReferences": 0,
+    "TotalAmount": 116670.00,
+    "TotalNet": 116371.28
+  },
+  "MatchedExact": {
+    "Count": 16,
+    "TotalAmount": 63024.00
+  },
+  "MatchedWithDiscrepancies": {
+    "Count": 1,
+    "TotalAmount": 1150.00
+  },
+  "MissingInB": {
+    "Count": 7,
+    "TotalAmount": 31657.50
+  },
+  "MissingInA": {
+    "Count": 7,
+    "TotalAmount": 50638.00
+  },
+  "Partitions": 1,
+  "ElapsedSeconds": 0.06,
+  "PeakWorkingSetMb": 27.9,
+  "OutputDirectory": "C:\\Users\\User\\Desktop\\2p2c\\Assignment2-Reconciliation\\output",
+  "MatchedTotal": 17,
+  "HasIssues": true
+}

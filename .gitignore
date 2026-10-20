@@ -1,0 +1,16 @@
+# Build output
+bin/
+obj/
+TestResults/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Scratch runs from the reviewer's guide / load tests (output/ is kept on purpose)
+perf/
+output-bad/
+output-wrong/
+data/ListA-bad.csv
